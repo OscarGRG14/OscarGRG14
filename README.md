@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I`m Oscar 👋🙃🖥
+```js
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Ruby, Python, Java, C++, C#, Visual Basic, Scala, Kotlin],
+  tools: [React, Node, Storybook, Styled-Components, Jest, Docker, Podman, Heroku],
+}
+```
 
 <!--
 **OscarGRG14/OscarGRG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
