@@ -3,7 +3,7 @@
 const thai = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Ruby, Python, Java, C++, C#, Visual Basic, Scala, Kotlin],
-  tools: [React, Node, Storybook, Styled-Components, Jest, Docker, Podman, Heroku],
+  tools: [React, Node, Storybook, Styled-Components, Jest, Docker, Podman, Vercel, Raiway],
 }
 ```
 
