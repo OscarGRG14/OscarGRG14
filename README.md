@@ -1,23 +1,26 @@
-### Hi I`m Oscar 👋🙃🖥
-```js
+### Hi there, I'm Oscar! 👋🙃🖥
+
+```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Ruby, Python, Java, C++, C#, Visual Basic, Scala, Kotlin],
-  tools: [React, Node, Storybook, Styled-Components, Jest, Docker, Podman, Vercel, Raiway],
+  code: [JavaScript, HTML, CSS, Ruby, Python, Java, C++, C#, Visual Basic, Scala, Kotlin],
+  tools: [React, Node.js, Storybook, Styled Components, Jest, Docker, Podman, Vercel, Railway],
 }
 ```
 
-<!--
-**OscarGRG14/OscarGRG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm a passionate developer with a diverse skill set and a knack for problem-solving. I enjoy working with various technologies and always strive to learn new things. When I'm not coding, you can find me exploring the latest trends in tech or indulging in a good cup of coffee.
 
-Here are some ideas to get you started:
+### Skills & Tools
+- Languages: JavaScript, HTML, CSS, Ruby, Python, Java, C++, C#, Visual Basic, Scala, Kotlin
+- Frameworks/Libraries: React, Node.js
+- Testing: Jest
+- Styling: Styled Components
+- DevOps: Docker, Podman
+- Deployment: Vercel, Railway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+Feel free to reach out to me via [email](mailto:oscar.py@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/oscar-ramirez-85bb71b0/)!
+
+### Fun Fact
+I'm an avid traveler and have visited [X] countries so far!
